@@ -9,4 +9,6 @@ After installing the Streamlit library, then you have to use the command:- stram
 Then, it is done.
 
 Steps in terms of images:
+<img width="1680" alt="Screenshot 2024-01-17 at 12 20 40 PM" src="https://github.com/suman277/Gietu-Students-Grade-Prediction/assets/114923389/0dfed748-e268-4729-b254-5cf213adab14">
+
 
