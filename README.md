@@ -16,6 +16,12 @@ Module 1:
 <img width="1680" alt="Screenshot 2024-01-17 at 12 20 47 PM" src="https://github.com/suman277/Gietu-Students-Grade-Prediction/assets/114923389/b71b4cb5-d6aa-4993-92e9-018da6e7df2d">
 
 Module 2:
+<img width="1680" alt="Screenshot 2024-01-17 at 12 20 54 PM" src="https://github.com/suman277/Gietu-Students-Grade-Prediction/assets/114923389/a7a473f9-0471-447a-aa2c-b8af7cf7e6ad">
+
+Modules 3:
+<img width="1680" alt="Screenshot 2024-01-17 at 12 21 01 PM" src="https://github.com/suman277/Gietu-Students-Grade-Prediction/assets/114923389/38e0b2ad-63dd-4c46-9482-9ba1f5887b9e">
+
+
 
 
 
